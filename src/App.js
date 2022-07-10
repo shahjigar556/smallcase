@@ -13,13 +13,7 @@ function App() {
   const [activeTrending, setActiveTrending] = useState(true);
   const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
-  let cancel=false;
-  useEffect(()=>{
-    cancel=false;
-    return ()=>{
-      cancel=true;
-    }
-  },[countries])
+
   const getData = (val) => {
     console.log(`Fetching Data:${val}`);
     setLoading(true);
