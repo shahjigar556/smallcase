@@ -22,3 +22,4 @@ This concept is known as  `debouncing`
 To keep the UI in consistent state all the former api calls are cancelled when new api call is fired this is done using `Abort Controller`
 <br/>
 The search query are also cached in frontend It can be done in two ways `Cookies` and `local storage` For our implementaion `local storage` has been used
+![image](https://user-images.githubusercontent.com/64774218/178158390-99da4d8b-6d4c-4282-b9ca-d6d6ca080f54.png)
