@@ -71,4 +71,77 @@ export default [
       language: "Lithuanian",
       capital: "Vilnius",
     },
+    {
+      id: 13,
+      name: "Aland Islands",
+      language: "Mariehamn",
+      capital: "Vilnius",
+    },
+    {
+      id: 14,
+      name: "Algeria",
+      language: "Arabic",
+      capital: "Warsaw",
+    },
+    {
+      id: 15,
+      name: "Angola",
+      language: "Portuguese",
+      capital: "Sofia",
+    },
+    {
+      id: 16,
+      name: "Hungary",
+      language: "Hungarian",
+      capital: "Budapest",
+    },
+    {
+      id: 17,
+      name: "Moldova",
+      language: "Moldovan",
+      capital: "Chișinău",
+    },
+    {
+      id: 18,
+      name: "Austria",
+      language: "German",
+      capital: "Vienna",
+    },
+    {
+      id: 19,
+      name: "Lithuania",
+      language: "Lithuanian",
+      capital: "Vilnius",
+    },
+    {
+      id: 21,
+      name: "Balochistan",
+      language: "Urdu",
+      capital: "Islamabad",
+    },
+    {
+      id: 22,
+      name: "China",
+      language: "Chinese",
+      capital: "Beijing",
+    },
+    {
+      id: 23,
+      name: "Ireland",
+      language: "Moldovan",
+      capital: "Dublin",
+    },
+    {
+      id: 24,
+      name: "Australia",
+      language: "English",
+      capital: "Sydney",
+    },
+    {
+      id: 25,
+      name: "Aland Islands",
+      language: "Mariehamn",
+      capital: "Vilnius",
+    },
+    
   ];

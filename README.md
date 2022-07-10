@@ -19,6 +19,6 @@ For Optimising the network calls rather then making api calls on each and every 
 <br/>
 This concept is known as  `debouncing`
 <br/>
-To keep the UI in consistent state all the former api calls are cancelled when new api call is fired this is done  `Abort Controller`
+To keep the UI in consistent state all the former api calls are cancelled when new api call is fired this is done using `Abort Controller`
 <br/>
 The search query are also cached in frontend It can be done in two ways `Cookies` and `local storage` For our implementaion `local storage` has been used

@@ -92,9 +92,10 @@ function App() {
               placeholder="smallcase it..."
               style={{
                 width: "40%",
-                border: "1px solid black",
+                border:'none',
                 borderRadius: "2px",
                 padding: "12px 20px",
+                backgroundColor:'#F1F1F1'
               }}
               onChange={(e) => handleChange(e.target.value)}
             ></input>
