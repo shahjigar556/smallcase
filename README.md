@@ -1,7 +1,7 @@
 # Small Case
 The web-app is build using  `ReactJS` 
 
-Install the require dependencies by command `npm install` in root directory as well as in frontend directory
+Install the require dependencies by command `npm install` in root directory 
 
 Run the command `npm start` in root directory  React application on port 3000
 ### The Task contains following functionalities
